@@ -1,0 +1,2 @@
+expressao = "( True and False ) or not ( False or True )"
+print(avaliar(expressao))  # Resultado: False
